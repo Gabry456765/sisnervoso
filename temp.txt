@@ -1,0 +1,18 @@
+<h1>Descrizione del Sistema Nervoso</h1>
+    <p>Il sistema nervoso è il sistema di controllo e coordinamento principale del corpo umano.<br> È composto da cellule nervose chiamate neuroni, che trasmettono segnali sotto forma di impulsi elettrici e chimici.</p>
+    
+    <p>Il sistema nervoso si divide in due parti principali:</p>
+    <ul>
+        <li>Sistema Nervoso Centrale (SNC)</li>
+        <li>Sistema Nervoso Periferico (SNP)</li>
+    </ul>
+    
+    <p>Il sistema nervoso regola una vasta gamma di funzioni corporee, inclusi i movimenti muscolari, <br> la percezione sensoriale, il pensiero, l'emozione e la memoria. È diviso anche in due divisioni funzionali:</p>
+    
+    <ul>
+        <li>Sistema Nervoso Somatico</li>
+        <li>Sistema Nervoso Autonomo</li>
+    </ul>
+    
+    <p>In sintesi, il sistema nervoso è essenziale per il funzionamento del corpo umano, <br>poiché regola e coordina una vasta gamma di attività, dall'attività muscolare al pensiero e alle emozioni.</p>
+    </div>

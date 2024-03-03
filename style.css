@@ -1,0 +1,66 @@
+body {
+    background: grey;
+}
+
+.nomi {
+    height: 10cm;
+    width: 70%;
+    background-color: rgb(236, 176, 108);
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(236, 176, 108);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.n {
+    text-align: center;
+    position: relative;
+    height: 2cm;
+}
+
+/* Aggiunta di regole CSS per il bottone */
+.btn-danger {
+    margin: 10px; /* Puoi regolare la distanza dal bordo del div se necessario */
+    height: 30%;
+    width: 30%;
+    font-size: 1cm;
+}
+.img{
+    height: auto;
+    width: 20%;
+    color: gray;
+    position: relative;
+    top: 3cm;
+    bottom: 40px;
+}
+
+.img1{
+    height: auto;
+    width: 25%;
+    color: gray;
+}
+
+.container {
+    display: flex; /* Imposta il layout in stile flexbox */
+}
+
+.txt {
+    position: relative;
+    top: 30px;
+    left: 1cm;
+    width: 1000px;
+    height: 50px;
+    color: rgb(96, 176, 241);
+    font-size: 1cm;
+}
+
+.div1{
+    position: absolute;
+            right: 0;
+            top: 11cm; /* Opzionale, se vuoi posizionarlo allineato con il top */
+            width: 20%; /* Imposta la larghezza del div */
+            height: 100%; /* Imposta l'altezza del div */
+            color: rgb(96, 176, 241);
+            font-size: xx-large;
+}
