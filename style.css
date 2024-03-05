@@ -3,7 +3,7 @@ body {
 }
 
 .nomi {
-    height: 10cm;
+    height: 200px;
     width: 70%;
     background-color: rgb(236, 176, 108);
     margin: 0 auto;
@@ -22,9 +22,8 @@ body {
 /* Aggiunta di regole CSS per il bottone */
 .btn-danger {
     margin: 10px; /* Puoi regolare la distanza dal bordo del div se necessario */
-    height: 30%;
-    width: 30%;
-    font-size: 1cm;
+    height: 100px;
+    width: 500px;
 }
 .img{
     height: auto;
@@ -52,15 +51,26 @@ body {
     width: 1000px;
     height: 50px;
     color: rgb(96, 176, 241);
-    font-size: 1cm;
 }
 
 .div1{
     position: absolute;
-            right: 0;
-            top: 11cm; /* Opzionale, se vuoi posizionarlo allineato con il top */
+            right: 5px;
+            top: 6cm; /* Opzionale, se vuoi posizionarlo allineato con il top */
             width: 20%; /* Imposta la larghezza del div */
             height: 100%; /* Imposta l'altezza del div */
             color: rgb(96, 176, 241);
-            font-size: xx-large;
 }
+
+.audio{
+    position: relative;
+    top: 500px;
+    left: 5px;
+}
+
+.audio1{
+
+    position: relative;
+    right: -850px;
+}
+
